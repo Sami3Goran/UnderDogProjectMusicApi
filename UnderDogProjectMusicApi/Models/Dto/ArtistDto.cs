@@ -4,5 +4,6 @@
     {
         public string ArtistTitle { get; set; }
         public string? Description { get; set; }
+        
     }
 }
